@@ -2,6 +2,8 @@
 
 A simple application CLI application to parse CRON Expressions, built on nodejs.
 
+Author - [Jawad Mahmoud](https://github.com/JawadMahmoud)
+
 ## Get Up & Running
 
 - Clone the repository or download and extract the zip file
@@ -57,3 +59,7 @@ Program's assumed valid values for each part of the arguments:
 - Day of Month : 1 - 31
 - Month : 1 - 12
 - Day of Week : 0 - 6
+
+## External Libraries
+
+[JEST](https://jestjs.io/) - Testing framework
