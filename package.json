@@ -1,0 +1,14 @@
+{
+  "name": "cron_parse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jawad Mahmoud <jd.mahmoud@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
